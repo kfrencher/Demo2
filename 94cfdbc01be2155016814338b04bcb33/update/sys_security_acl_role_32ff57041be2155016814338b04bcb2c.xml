@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>kenneth.frencher</sys_created_by>
+        <sys_created_on>2022-10-10 14:49:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>32ff57041be2155016814338b04bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_usga2_demo2_task.x_usga2_demo2.task_user</sys_name>
+        <sys_package display_value="Demo2" source="x_usga2_demo2">94cfdbc01be2155016814338b04bcb33</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Demo2">94cfdbc01be2155016814338b04bcb33</sys_scope>
+        <sys_security_acl display_value="x_usga2_demo2_task">32ff57041be2155016814338b04bcb29</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_32ff57041be2155016814338b04bcb2c</sys_update_name>
+        <sys_updated_by>kenneth.frencher</sys_updated_by>
+        <sys_updated_on>2022-10-10 14:49:47</sys_updated_on>
+        <sys_user_role display_value="x_usga2_demo2.task_user" name="x_usga2_demo2.task_user">6aff1fc01be2155016814338b04bcbe3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

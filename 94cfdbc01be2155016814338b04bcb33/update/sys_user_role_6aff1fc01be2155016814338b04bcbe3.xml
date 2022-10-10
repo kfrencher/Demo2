@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_usga2_demo2.task_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>task_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>kenneth.frencher</sys_created_by>
+        <sys_created_on>2022-10-10 14:49:46</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6aff1fc01be2155016814338b04bcbe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_usga2_demo2.task_user</sys_name>
+        <sys_package display_value="Demo2" source="x_usga2_demo2">94cfdbc01be2155016814338b04bcb33</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Demo2">94cfdbc01be2155016814338b04bcb33</sys_scope>
+        <sys_update_name>sys_user_role_6aff1fc01be2155016814338b04bcbe3</sys_update_name>
+        <sys_updated_by>kenneth.frencher</sys_updated_by>
+        <sys_updated_on>2022-10-10 14:49:46</sys_updated_on>
+    </sys_user_role>
+</record_update>
